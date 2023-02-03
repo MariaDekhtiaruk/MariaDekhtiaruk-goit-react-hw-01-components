@@ -77,7 +77,6 @@ export const Quantity = styled.span`
   letter-spacing: 0.03em;
   text-align: center;
   color: black;
-  margin-bottom: 30px;
 `;
 export const Label = styled.span`
   font-size: 16px;
