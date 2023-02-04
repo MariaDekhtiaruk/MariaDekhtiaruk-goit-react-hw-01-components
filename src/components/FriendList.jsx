@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types';
+
 import {
   FriendListUl,
   FriendListItem,
@@ -17,4 +19,13 @@ export const FriendList = ({ friends }) => {
       ))}
     </FriendListUl>
   );
+};
+FriendList.propTypes = {
+  friends: PropTypes.array,
+  //   ({
+  //   id: PropTypes.number,
+  //   avatar: PropTypes.string,
+  //   name: PropTypes.string,
+  //   isOnline: PropTypes.string,
+  // }).isRequired,
 };

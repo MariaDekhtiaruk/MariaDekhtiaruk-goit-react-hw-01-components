@@ -8,6 +8,7 @@ export const FriendListUl = styled.ul`
   gap: 5px;
   background-color: transparent;
   padding: 0px;
+  margin-top: 20px;
 `;
 
 export const FriendListItem = styled.li`
