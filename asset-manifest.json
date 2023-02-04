@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MariaDekhtiaruk-goit-react-hw-01-components/static/css/main.d0713351.css",
-    "main.js": "/MariaDekhtiaruk-goit-react-hw-01-components/static/js/main.60963f48.js",
+    "main.css": "/MariaDekhtiaruk-goit-react-hw-01-components/static/css/main.c567ca34.css",
+    "main.js": "/MariaDekhtiaruk-goit-react-hw-01-components/static/js/main.7e30c064.js",
     "index.html": "/MariaDekhtiaruk-goit-react-hw-01-components/index.html",
-    "main.d0713351.css.map": "/MariaDekhtiaruk-goit-react-hw-01-components/static/css/main.d0713351.css.map",
-    "main.60963f48.js.map": "/MariaDekhtiaruk-goit-react-hw-01-components/static/js/main.60963f48.js.map"
+    "main.c567ca34.css.map": "/MariaDekhtiaruk-goit-react-hw-01-components/static/css/main.c567ca34.css.map",
+    "main.7e30c064.js.map": "/MariaDekhtiaruk-goit-react-hw-01-components/static/js/main.7e30c064.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0713351.css",
-    "static/js/main.60963f48.js"
+    "static/css/main.c567ca34.css",
+    "static/js/main.7e30c064.js"
   ]
 }
