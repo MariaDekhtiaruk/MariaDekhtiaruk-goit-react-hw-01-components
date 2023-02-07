@@ -12,7 +12,7 @@ const randomColor = () => '#' + (((1 << 24) * Math.random()) | 0).toString(16);
 export const Statistics = ({ title, stats }) => {
   return (
     <StatisticWrap>
-      <Title>{title}</Title>
+      {title ? <Title>{title}</Title> : null}
 
       <StatList>
         {stats.map(item => (
